@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserAuth</string>
+    <string name="login">Login</string>
+    <string name="_91">+91</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+</resources>
